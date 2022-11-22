@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="3" moduleid="5" modulename="page" contextid="34">
+  <page id="3">
+    <name>Những gì bạn nên biết</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;Trước khi tiếp tục, bạn nên hiểu cơ bản về những điều sau:&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;-HTML&lt;/p&gt;&lt;p&gt;-CSS&lt;/p&gt;&lt;p&gt;-JavaScript&lt;/p&gt;Nếu bạn muốn học thêm những điều này ,hãy chuyển sang các hóa học về nó trên trang của chúng tôi&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>3</revision>
+    <timemodified>1667982393</timemodified>
+  </page>
+</activity>

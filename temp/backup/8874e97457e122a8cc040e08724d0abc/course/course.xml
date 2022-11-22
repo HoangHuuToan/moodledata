@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course id="3" contextid="30">
+  <shortname>PHP Cơ Bản</shortname>
+  <fullname>Khóa Học Lập Trình PHP Cơ Bản</fullname>
+  <idnumber>LTPHP01</idnumber>
+  <summary>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;PHP là một ngôn ngữ kịch bản máy chủ và là một công cụ mạnh mẽ để tạo các trang Web động và tương tác.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;PHP là một giải pháp thay thế được sử dụng rộng rãi, miễn phí và hiệu quả cho các đối thủ cạnh tranh như ASP của Microsoft.&lt;/p&gt;Ở khóa học này các bạn sẽ được tìm hiểu về kiến thức nền tảng cần có khi học về ngôn ngữ lập trình PHP&amp;nbsp;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</summary>
+  <summaryformat>1</summaryformat>
+  <format>topics</format>
+  <showgrades>1</showgrades>
+  <newsitems>5</newsitems>
+  <startdate>1668038400</startdate>
+  <enddate>0</enddate>
+  <marker>0</marker>
+  <maxbytes>0</maxbytes>
+  <legacyfiles>0</legacyfiles>
+  <showreports>0</showreports>
+  <visible>1</visible>
+  <groupmode>0</groupmode>
+  <groupmodeforce>0</groupmodeforce>
+  <defaultgroupingid>0</defaultgroupingid>
+  <lang></lang>
+  <theme></theme>
+  <timecreated>1667978909</timecreated>
+  <timemodified>1667978909</timemodified>
+  <requested>0</requested>
+  <showactivitydates>1</showactivitydates>
+  <showcompletionconditions>1</showcompletionconditions>
+  <enablecompletion>1</enablecompletion>
+  <completionnotify>0</completionnotify>
+  <category id="5">
+    <name>PHP</name>
+    <description></description>
+  </category>
+  <tags>
+  </tags>
+  <customfields>
+  </customfields>
+  <courseformatoptions>
+    <courseformatoption>
+      <format>topics</format>
+      <sectionid>0</sectionid>
+      <name>coursedisplay</name>
+      <value>0</value>
+    </courseformatoption>
+    <courseformatoption>
+      <format>topics</format>
+      <sectionid>0</sectionid>
+      <name>hiddensections</name>
+      <value>1</value>
+    </courseformatoption>
+  </courseformatoptions>
+</course>

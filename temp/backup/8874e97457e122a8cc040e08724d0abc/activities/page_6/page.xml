@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="4" moduleid="6" modulename="page" contextid="35">
+  <page id="4">
+    <name>PHP là gì ?</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;PHP là từ viết tắt của "PHP: Hypertext Preprocessor"&lt;/p&gt;&lt;p&gt;PHP là một ngôn ngữ kịch bản mã nguồn mở, được sử dụng rộng rãi&lt;/p&gt;&lt;p&gt;Các tập lệnh PHP được thực thi trên máy chủ&lt;/p&gt;&lt;p&gt;PHP miễn phí để tải xuống và sử dụng&lt;/p&gt;&lt;p&gt;PHP là một ngôn ngữ tuyệt vời và phổ biến!&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Nó đủ mạnh để trở thành cốt lõi của hệ thống viết blog lớn nhất trên web (WordPress)!&lt;/p&gt;&lt;p&gt;Nó đủ sâu để chạy các mạng xã hội lớn!&lt;/p&gt;&lt;p&gt;Nó cũng đủ dễ dàng để trở thành ngôn ngữ phía máy chủ đầu tiên của người mới bắt đầu!&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>4</revision>
+    <timemodified>1667982551</timemodified>
+  </page>
+</activity>

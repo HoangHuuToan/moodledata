@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="6" moduleid="8" modulename="page" contextid="37">
+  <page id="6">
+    <name>PHP có thể làm được gì?</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;-PHP có thể tạo nội dung trang động&lt;/p&gt;&lt;p&gt;-PHP có thể tạo, mở, đọc, ghi, xóa và đóng các tệp trên máy chủ&lt;/p&gt;&lt;p&gt;-PHP có thể thu thập dữ liệu biểu mẫu&lt;/p&gt;&lt;p&gt;-PHP có thể gửi và nhận cookie&lt;/p&gt;&lt;p&gt;-PHP có thể thêm, xóa, sửa đổi dữ liệu trong cơ sở dữ liệu của bạn&lt;/p&gt;&lt;p&gt;-PHP có thể được sử dụng để kiểm soát quyền truy cập của người dùng&lt;/p&gt;&lt;p&gt;-PHP có thể mã hóa dữ liệu&lt;/p&gt;&lt;p&gt;(*): Với PHP, bạn không bị giới hạn ở HTML đầu ra. Bạn có thể xuất hình ảnh, tệp PDF và thậm chí cả phim Flash. Bạn cũng có thể xuất bất kỳ văn bản nào, chẳng hạn như XHTML và XML&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>6</revision>
+    <timemodified>1667983484</timemodified>
+  </page>
+</activity>

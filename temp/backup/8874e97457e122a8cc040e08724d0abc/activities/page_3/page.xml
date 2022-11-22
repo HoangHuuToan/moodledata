@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="3" modulename="page" contextid="32">
+  <page id="1">
+    <name>Giới thiệu về ngôn ngữ lập trình PHP</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;PHP là một ngôn ngữ kịch bản máy chủ và là một công cụ mạnh mẽ để tạo các trang Web động và tương tác.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;PHP là một giải pháp thay thế được sử dụng rộng rãi, miễn phí và hiệu quả cho các đối thủ cạnh tranh như ASP của Microsoft.&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"1";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1667982226</timemodified>
+  </page>
+</activity>

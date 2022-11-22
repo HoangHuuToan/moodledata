@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="24" moduleid="27" modulename="page" contextid="56">
+  <page id="24">
+    <name>Vòng Lặp While</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Vòng lặp&amp;nbsp;&lt;code&gt;while&lt;/code&gt;&amp;nbsp;- Vòng lặp qua một khối mã miễn là điều kiện được chỉ định là đúng.&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;-&amp;nbsp; Cú Pháp :&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span&gt;while (&lt;i style=""&gt;điều kiện là đúng&lt;/i&gt;) {&lt;br&gt;&lt;i style=""&gt;&amp;nbsp; //&lt;/i&gt;mã được thực thi;&lt;br&gt;}&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Ví dụ 1 :&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;span&gt;Ví dụ dưới đây hiển thị các số từ 1 đến 5:&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;lt;?php&lt;br&gt;$x =&amp;nbsp;1;&lt;br&gt;&lt;br&gt;while($x &amp;lt;=&amp;nbsp;5) {&lt;br&gt;&amp;nbsp;&amp;nbsp;echo&amp;nbsp;"The number is: $x &amp;lt;br&amp;gt;";&lt;br&gt;&amp;nbsp;&amp;nbsp;$x++;&lt;br&gt;}&lt;br&gt;?&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;-&amp;nbsp; Giải thích :&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$ x = 1;&amp;nbsp;- Khởi tạo bộ đếm vòng lặp ($ x) và đặt giá trị bắt đầu thành 1&lt;/li&gt;&lt;li&gt;$ x &amp;lt;= 5 - Tiếp tục vòng lặp với điều kiện $ x nhỏ hơn hoặc bằng 5&lt;/li&gt;&lt;li&gt;$ x ++;&amp;nbsp;- Tăng giá trị bộ đếm vòng lặp lên 1 cho mỗi lần lặp&lt;/li&gt;&lt;/ul&gt;&lt;strong&gt;Ví dụ 2 :&lt;/strong&gt;&lt;br&gt;&lt;ul&gt;&lt;li&gt;Đếm đến 100 x hàng chục:&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&amp;lt;?php&lt;br&gt;$x =&amp;nbsp;0;&lt;br&gt;&lt;br&gt;while($x &amp;lt;=&amp;nbsp;100) {&lt;br&gt;&amp;nbsp;&amp;nbsp;echo&amp;nbsp;"The number is: $x &amp;lt;br&amp;gt;";&lt;br&gt;&amp;nbsp; $x+=10;&lt;br&gt;}&lt;br&gt;?&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;-&amp;nbsp; Giải thích :&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$ x = 0;&amp;nbsp;- Khởi tạo bộ đếm vòng lặp ($ x) và đặt giá trị bắt đầu thành 0&lt;/li&gt;&lt;li&gt;$ x &amp;lt;= 100 - Tiếp tục vòng lặp với điều kiện $ x nhỏ hơn hoặc bằng 100&lt;/li&gt;&lt;li&gt;$ x + = 10;&amp;nbsp;- Tăng giá trị bộ đếm vòng lặp lên 10 cho mỗi lần lặp&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1668075799</timemodified>
+  </page>
+</activity>

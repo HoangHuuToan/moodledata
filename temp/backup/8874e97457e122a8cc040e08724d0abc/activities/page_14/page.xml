@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="11" moduleid="14" modulename="page" contextid="43">
+  <page id="11">
+    <name>Chú thích trong PHP</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;- Chú thích trong mã PHP là một dòng không được thực thi như một phần của chương trình. Mục đích duy nhất của nó là được đọc bởi ai đó đang xem mã.&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;- Nhận xét có thể được sử dụng để :&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Để người khác hiểu mã của bạn&lt;/li&gt;&lt;li&gt;Nhắc nhở bản thân về những gì bạn đã làm - Hầu hết các lập trình viên đã trải qua kinh nghiệm quay lại công việc của họ một hoặc hai năm sau đó và phải tìm hiểu lại những gì họ đã làm. Nhận xét có thể nhắc nhở bạn về những gì bạn đã nghĩ khi viết mã&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;- PHP hỗ trợ một số cách chú thích :&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ví dụ 1 :&amp;nbsp;Cú pháp cho nhận xét một dòng:&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;!DOCTYPE&amp;nbsp;html&amp;gt;&lt;br&gt;&amp;lt;html&amp;gt;&lt;br&gt;&amp;lt;body&amp;gt;&lt;br&gt;&lt;br&gt;&amp;lt;?php&lt;br&gt;// Đây là một chú thích đơn dòng&lt;/p&gt;&lt;p&gt;&lt;br&gt;# Đây cũng là một chú thích đơn dòng&lt;br&gt;?&amp;gt;&lt;br&gt;&lt;br&gt;&amp;lt;/body&amp;gt;&lt;br&gt;&amp;lt;/html&amp;gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ví dụ 2 :&amp;nbsp;&lt;span style="font-size: 0.9375rem;"&gt;Cú pháp cho chú thích nhiều dòng:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;! DOCTYPE html&amp;gt;&lt;/p&gt;&lt;p&gt;&amp;lt;html&amp;gt;&lt;/p&gt;&lt;p&gt;&amp;lt;body&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;? php&lt;/p&gt;&lt;p&gt;/ *&lt;/p&gt;&lt;p&gt;Đây là một khối chú thích nhiều dòng&lt;/p&gt;&lt;p&gt;kéo dài trên nhiều&lt;/p&gt;&lt;p&gt;dòng&lt;/p&gt;&lt;p&gt;* /&lt;/p&gt;&lt;p&gt;?&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;/body&amp;gt;&lt;/p&gt;&lt;p&gt;&amp;lt;/html&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Ví dụ 3 :&amp;nbsp;&lt;span style="font-size: 0.9375rem;"&gt;Sử dụng nhận xét để loại bỏ các phần của mã:&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;! DOCTYPE html&amp;gt;&lt;/p&gt;&lt;p&gt;&amp;lt;html&amp;gt;&lt;/p&gt;&lt;p&gt;&amp;lt;body&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;? php&lt;/p&gt;&lt;p&gt;// Bạn cũng có thể sử dụng chú thích để loại bỏ các phần của dòng mã&lt;/p&gt;&lt;p&gt;$ x = 5 / * + 15 * / + 5;&lt;/p&gt;&lt;p&gt;echo $ x;&lt;/p&gt;&lt;p&gt;?&amp;gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&amp;lt;/body&amp;gt;&lt;/p&gt;&lt;p&gt;&amp;lt;/html&amp;gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1667986150</timemodified>
+  </page>
+</activity>

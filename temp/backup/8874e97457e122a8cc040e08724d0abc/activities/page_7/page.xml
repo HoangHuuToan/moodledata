@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="5" moduleid="7" modulename="page" contextid="36">
+  <page id="5">
+    <name>Tệp PHP được viết như thế nào?</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Các tệp PHP có thể chứa văn bản, HTML, CSS, JavaScript và mã PHP&lt;/p&gt;&lt;p&gt;Mã PHP được thực thi trên máy chủ và kết quả được trả về trình duyệt dưới dạng HTML thuần túy&lt;/p&gt;&lt;p&gt;Tệp PHP có phần mở rộng là ".php"&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>5</revision>
+    <timemodified>1667982703</timemodified>
+  </page>
+</activity>

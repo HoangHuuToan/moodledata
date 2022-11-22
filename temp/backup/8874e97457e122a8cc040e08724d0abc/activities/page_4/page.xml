@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="2" moduleid="4" modulename="page" contextid="33">
+  <page id="2">
+    <name>Nơi thực thi và sử dụng mã PHP</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;Mã PHP được thực thi trên máy chủ.&lt;br&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>1</revision>
+    <timemodified>1667982250</timemodified>
+  </page>
+</activity>

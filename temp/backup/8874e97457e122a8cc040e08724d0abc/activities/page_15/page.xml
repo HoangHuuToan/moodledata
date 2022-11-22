@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="12" moduleid="15" modulename="page" contextid="44">
+  <page id="12">
+    <name>Các biến PHP</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Các biến là "containers" để lưu trữ thông tin.&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;1&amp;nbsp;Tạo (Khai báo) các biến PHP :&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span&gt;-&amp;nbsp; &amp;nbsp;Trong PHP, một biến bắt đầu bằng dấu &lt;strong&gt;$&lt;/strong&gt;, theo sau là tên của biến:&lt;br&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;Ví dụ 1 :&lt;/strong&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&amp;lt;?php&lt;br&gt;$txt =&amp;nbsp;"Hello world!";&lt;br&gt;$x =&amp;nbsp;5;&lt;br&gt;$y =&amp;nbsp;10.5;&lt;br&gt;?&amp;gt;&lt;br&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;-&amp;nbsp; &amp;nbsp;&lt;span style="font-size: 0.9375rem;"&gt;Sau khi thực hiện các câu lệnh trên, biến $ txt sẽ giữ giá trị Hello world !, biến $ x sẽ giữ giá trị 5 và biến $ y sẽ giữ giá trị 10.5.&lt;/span&gt;&lt;/p&gt;
+&lt;p dir="ltr" style="text-align: left;"&gt;&lt;span style="font-size: 0.9375rem;"&gt;&lt;strong&gt;note &lt;/strong&gt;: Khi bạn gán giá trị văn bản cho một biến, hãy đặt dấu ngoặc kép xung quanh giá trị đó.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;note &lt;/strong&gt;: Không giống như các ngôn ngữ lập trình khác, PHP không có lệnh khai báo một biến. Nó được tạo ngay khi bạn chỉ định một giá trị cho nó lần đầu tiên.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;(*)&amp;nbsp;Hãy coi các biến như là các vùng chứa để lưu trữ dữ liệu.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;2 Các biến PHP :&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;span&gt;Một biến có thể có tên ngắn (như x và y) hoặc tên mô tả hơn (age, carname, total_volume).&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;strong style="font-size: 0.9375rem;"&gt;(*) Quy tắc cho các biến PHP:&lt;/strong&gt;&lt;br&gt;
+&lt;ul&gt;
+    &lt;li&gt;&lt;span&gt;Một biến bắt đầu bằng dấu &lt;strong&gt;$&lt;/strong&gt;, theo sau là tên của biến&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span&gt;Tên biến phải bắt đầu bằng một chữ cái hoặc ký tự gạch dưới&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span&gt;Tên biến không thể bắt đầu bằng số&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span&gt;Tên biến chỉ có thể chứa các ký tự chữ-số và dấu gạch dưới (&lt;strong&gt;A-z, 0-9 và &lt;/strong&gt;&lt;strong&gt;_&lt;/strong&gt;)&lt;/span&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;span&gt;Tên biến có phân biệt chữ hoa chữ thường (&lt;strong&gt;$ age&lt;/strong&gt; và &lt;strong&gt;$ AGE&lt;/strong&gt; là hai biến khác nhau)&lt;/span&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;span&gt;&lt;strong&gt;(*)&amp;nbsp;Hãy nhớ rằng tên biến PHP có phân biệt chữ hoa chữ thường!&lt;/strong&gt;&lt;br&gt;&lt;br&gt;
+    &lt;p style="font-weight: bold;"&gt;3 Biến đầu ra :&amp;nbsp;&lt;/p&gt;
+    &lt;p style=""&gt;&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Câu lệnh &lt;strong&gt;echo&lt;/strong&gt; trong PHP thường được sử dụng để xuất dữ liệu ra màn hình.&lt;/li&gt;
+    &lt;/ul&gt;&lt;br&gt;&lt;span style="font-size: 0.9375rem;"&gt;&lt;strong&gt;- Ví dụ 1:&lt;/strong&gt;&amp;nbsp; Sẽ cho thấy cách xuất văn bản và một biến:&amp;nbsp;&lt;/span&gt;&lt;br&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p style=""&gt;&lt;/p&gt;&amp;lt;?php&lt;br&gt;$txt =&amp;nbsp;"pmcmooc.com";&lt;br&gt;echo&amp;nbsp;"I love $txt!";&lt;br&gt;?&amp;gt;&lt;br&gt;&lt;strong&gt;- Ví dụ 2 :&amp;nbsp;&lt;/strong&gt;tạo ra cùng một đầu ra như ví dụ trên:&lt;br&gt;&amp;lt;?php&lt;br&gt;$txt =&amp;nbsp;"pmcmooc.net";&lt;br&gt;echo&amp;nbsp;"I love "&amp;nbsp;. $txt .&amp;nbsp;"!";&lt;br&gt;?&amp;gt;&lt;br&gt;&lt;strong&gt;- Ví dụ 3 :&amp;nbsp;&lt;/strong&gt;xuất ra tổng của hai biến:&amp;nbsp;&lt;br&gt;
+    &lt;div&gt;
+        &lt;div&gt;&amp;lt;?php&lt;br&gt;$x =&amp;nbsp;5;&lt;br&gt;$y =&amp;nbsp;4;&lt;br&gt;echo&amp;nbsp;$x + $y;&lt;br&gt;?&amp;gt;&lt;/div&gt;
+    &lt;/div&gt;&lt;br&gt;&lt;strong&gt;Note: &lt;/strong&gt;Bạn sẽ tìm hiểu thêm về câu lệnh echo và cách xuất dữ liệu ra màn hình trong chương tiếp theo.&lt;br&gt;&lt;br&gt;
+    &lt;p&gt;&lt;strong&gt;4 PHP là một ngôn ngữ được đánh máy dễ dàng :&lt;/strong&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Trong ví dụ trên, hãy lưu ý rằng chúng ta không phải cho PHP biết kiểu dữ liệu nào của biến.&lt;/li&gt;
+        &lt;li&gt;PHP tự động liên kết kiểu dữ liệu với biến, tùy thuộc vào giá trị của nó. Vì các kiểu dữ liệu không được đặt theo nghĩa chặt chẽ, bạn có thể làm những việc như thêm một chuỗi vào một số nguyên mà không gây ra lỗi.&lt;/li&gt;
+        &lt;li&gt;Trong PHP 7, khai báo kiểu đã được thêm vào. Điều này cung cấp một tùy chọn để chỉ định kiểu dữ liệu được mong đợi khi khai báo một hàm và bằng cách kích hoạt yêu cầu nghiêm ngặt, nó sẽ tạo ra "Lỗi nghiêm trọng" trên một kiểu không khớp.&lt;/li&gt;
+        &lt;li&gt;Bạn sẽ tìm hiểu thêm về các yêu cầu &lt;code&gt;strict&lt;/code&gt;&amp;nbsp; và &lt;code&gt;non-strict&lt;/code&gt;&amp;nbsp; cũng như khai báo kiểu dữ liệu trong chương Hàm PHP.&lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;
+&lt;/span&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1668068154</timemodified>
+  </page>
+</activity>

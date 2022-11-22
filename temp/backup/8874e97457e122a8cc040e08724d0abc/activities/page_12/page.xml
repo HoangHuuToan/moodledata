@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="9" moduleid="12" modulename="page" contextid="41">
+  <page id="9">
+    <name>Quá trình cài đặt PHP :</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;1 Bạn cần có :&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;- Để bắt đầu sử dụng PHP, bạn có thể :&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&amp;nbsp;Tìm một máy chủ web có hỗ trợ PHP và MySQL&lt;/li&gt;&lt;li&gt;&amp;nbsp;Cài đặt máy chủ web trên PC của riêng bạn, sau đó cài đặt PHP và MySQL&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;strong&gt;2 Sử dụng máy chủ web có hỗ trợ PHP :&lt;/strong&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Nếu máy chủ của bạn đã kích hoạt hỗ trợ cho PHP, bạn không cần phải làm gì cả.&lt;/li&gt;&lt;li&gt;Chỉ cần tạo một số tệp .php, đặt chúng vào thư mục web của bạn và máy chủ sẽ tự động phân tích cú pháp chúng cho bạn.&lt;/li&gt;&lt;li&gt;Bạn không cần phải biên dịch bất kỳ thứ gì hoặc cài đặt bất kỳ công cụ bổ sung nào.&lt;/li&gt;&lt;li&gt;Vì PHP miễn phí nên hầu hết các máy chủ web đều cung cấp hỗ trợ PHP.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;strong&gt;3 Thiết lập PHP trên PC của riêng bạn :&amp;nbsp;&lt;br&gt;&lt;/strong&gt;-&amp;nbsp;Tuy nhiên, nếu máy chủ của bạn không hỗ trợ PHP, bạn phải :&lt;br&gt;&lt;ul&gt;&lt;li&gt;&lt;span style="font-size: 0.9375rem;"&gt;cài đặt một máy chủ web&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 0.9375rem;"&gt;&lt;span style="font-size: 0.9375rem;"&gt;cài đặt PHP&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style="font-size: 0.9375rem;"&gt;&lt;span style="font-size: 0.9375rem;"&gt;&lt;span style="font-size: 0.9375rem;"&gt;cài đặt cơ sở dữ liệu, chẳng hạn như MySQ&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;note&lt;/strong&gt; : Trang web PHP chính thức (PHP.net) có hướng dẫn cài đặt cho PHP: http://php.net/manual/en/install.php&lt;br&gt;&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1667984403</timemodified>
+  </page>
+</activity>

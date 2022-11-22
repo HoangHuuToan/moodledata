@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="8" moduleid="11" modulename="page" contextid="40">
+  <page id="8">
+    <name>Có gì mới ở PHP 8?</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;h2&gt;&lt;b&gt;PHP 8.0 cung cấp tính năng mới gì?&lt;/b&gt;&lt;/h2&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;Ngày 26/11, phiên bản PHP 8.0 chính thức được trình làng với nhiều thay đổi lớn. Trong đó, các tính năng mới, đáng chú ý có thể kể đến là thuộc tính (attributes), kiểu liên hợp (union types), toán tử nullsafe, trình biên dịch JIT (Just In Time) và tính năng đặt tên cho đối số (named arguments).&amp;nbsp;&lt;/p&gt;&lt;p&gt;Cụ thể:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Kiểu liên hợp có tính năng độc đáo là nhiều kiểu dữ liệu được giữ bởi một biến.&lt;/li&gt;&lt;li&gt;Trình biên dịch JIT được nhà phát triển cải tiến hiệu suất dành cho ứng dụng web, thông qua việc chuyển code thành hướng dẫn dành cho CPU trong quá trình nó chạy.&amp;nbsp;&lt;/li&gt;&lt;li&gt;Tính năng đặt tên cho đối số mang đến nhiều thuận tiện cho lập trình viên. Theo đó, các developer được phép gán giá trị cho hàm bất kỳ, bằng cách đặt tên giá trị và bỏ qua những tham số tùy chọn.&lt;/li&gt;&lt;li&gt;PHP 8.0 có tính năng tối ưu và cải tiến hệ thống cú pháp, kiểu, xử lý lỗi. Đồng thời, tăng tính nhất quán cho ngôn ngữ.&lt;/li&gt;&lt;/ul&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>8</revision>
+    <timemodified>1667983853</timemodified>
+  </page>
+</activity>

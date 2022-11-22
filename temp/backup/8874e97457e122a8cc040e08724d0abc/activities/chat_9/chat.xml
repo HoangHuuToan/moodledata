@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="1" moduleid="9" modulename="chat" contextid="38">
+  <chat id="1">
+    <name>Phòng Chat Chung</name>
+    <intro>&lt;p dir="ltr" style="text-align: left;"&gt;-Mọi thắc mắc về khóa học sẽ được trao đổi và giải đáp tại đây&amp;nbsp;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;-Mọi sinh viên chú ý câu từ khi trao đổi một cách chuẩn mực&lt;/p&gt;</intro>
+    <introformat>1</introformat>
+    <keepdays>0</keepdays>
+    <studentlogs>0</studentlogs>
+    <chattime>1667983200</chattime>
+    <schedule>0</schedule>
+    <timemodified>1667983365</timemodified>
+    <messages>
+      <message id="1">
+        <userid>2</userid>
+        <groupid>0</groupid>
+        <system>1</system>
+        <message_text>enter</message_text>
+        <timestamp>1667983392</timestamp>
+      </message>
+    </messages>
+  </chat>
+</activity>

@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="2" contextid="5">
+    <username>huutoan</username>
+    <idnumber></idnumber>
+    <email>hoanghuutoanit@gmail.com</email>
+    <phone1></phone1>
+    <phone2></phone2>
+    <institution></institution>
+    <department></department>
+    <address></address>
+    <city>Ha Noi</city>
+    <country>VN</country>
+    <lastip>113.164.4.5</lastip>
+    <picture>13</picture>
+    <description></description>
+    <descriptionformat>1</descriptionformat>
+    <imagealt></imagealt>
+    <auth>manual</auth>
+    <firstnamephonetic></firstnamephonetic>
+    <lastnamephonetic></lastnamephonetic>
+    <middlename></middlename>
+    <alternatename></alternatename>
+    <firstname>Hoang Huu</firstname>
+    <lastname>Toan</lastname>
+    <confirmed>1</confirmed>
+    <policyagreed>0</policyagreed>
+    <deleted>0</deleted>
+    <lang>en</lang>
+    <theme></theme>
+    <timezone>UTC</timezone>
+    <firstaccess>1667905968</firstaccess>
+    <lastaccess>1668504604</lastaccess>
+    <lastlogin>1668502404</lastlogin>
+    <currentlogin>1668504144</currentlogin>
+    <mailformat>1</mailformat>
+    <maildigest>0</maildigest>
+    <maildisplay>1</maildisplay>
+    <autosubscribe>1</autosubscribe>
+    <trackforums>0</trackforums>
+    <timecreated>0</timecreated>
+    <timemodified>1667969520</timemodified>
+    <trustbitmask>0</trustbitmask>
+    <custom_fields>
+    </custom_fields>
+    <tags>
+    </tags>
+    <preferences>
+      <preference id="2">
+        <name>auth_manual_passwordupdatetime</name>
+        <value>1667906061</value>
+      </preference>
+      <preference id="1">
+        <name>core_message_migrate_data</name>
+        <value>1</value>
+      </preference>
+      <preference id="6">
+        <name>core_user_welcome</name>
+        <value>1667906355</value>
+      </preference>
+      <preference id="42">
+        <name>coursecat_management_perpage</name>
+        <value>999</value>
+      </preference>
+      <preference id="41">
+        <name>coursesectionspreferences_3</name>
+        <value>{"contentcollapsed":[],"indexcollapsed":[6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]}</value>
+      </preference>
+      <preference id="43">
+        <name>drawer-open-block</name>
+        <value>0</value>
+      </preference>
+      <preference id="38">
+        <name>drawer-open-index</name>
+        <value>1</value>
+      </preference>
+      <preference id="3">
+        <name>email_bounce_count</name>
+        <value>1</value>
+      </preference>
+      <preference id="4">
+        <name>email_send_count</name>
+        <value>1</value>
+      </preference>
+      <preference id="16">
+        <name>filepicker_recentlicense</name>
+        <value>unknown</value>
+      </preference>
+      <preference id="15">
+        <name>filepicker_recentrepository</name>
+        <value>5</value>
+      </preference>
+      <preference id="5">
+        <name>login_failed_count_since_success</name>
+        <value>0</value>
+      </preference>
+      <preference id="39">
+        <name>tool_usertours_tour_completion_time_2</name>
+        <value>1667978923</value>
+      </preference>
+      <preference id="27">
+        <name>tool_usertours_tour_completion_time_3</name>
+        <value>1667973304</value>
+      </preference>
+      <preference id="7">
+        <name>tool_usertours_tour_completion_time_4</name>
+        <value>1667906364</value>
+      </preference>
+      <preference id="25">
+        <name>userselector_autoselectunique</name>
+        <value>0</value>
+      </preference>
+      <preference id="24">
+        <name>userselector_preserveselected</name>
+        <value>0</value>
+      </preference>
+      <preference id="26">
+        <name>userselector_searchanywhere</name>
+        <value>0</value>
+      </preference>
+    </preferences>
+    <roles>
+      <role_overrides>
+      </role_overrides>
+      <role_assignments>
+      </role_assignments>
+    </roles>
+  </user>
+  <user id="6" contextid="20">
+    <username>toannk</username>
+    <idnumber></idnumber>
+    <email>toannk@gmail.com</email>
+    <phone1></phone1>
+    <phone2></phone2>
+    <institution></institution>
+    <department></department>
+    <address></address>
+    <city></city>
+    <country></country>
+    <lastip>27.72.59.160</lastip>
+    <picture>0</picture>
+    <description>$@NULL@$</description>
+    <descriptionformat>1</descriptionformat>
+    <imagealt>$@NULL@$</imagealt>
+    <auth>email</auth>
+    <firstnamephonetic></firstnamephonetic>
+    <lastnamephonetic></lastnamephonetic>
+    <middlename></middlename>
+    <alternatename></alternatename>
+    <firstname>Toan</firstname>
+    <lastname>Nguyen</lastname>
+    <confirmed>1</confirmed>
+    <policyagreed>0</policyagreed>
+    <deleted>0</deleted>
+    <lang>en</lang>
+    <theme></theme>
+    <timezone>99</timezone>
+    <firstaccess>1667970293</firstaccess>
+    <lastaccess>1667983384</lastaccess>
+    <lastlogin>0</lastlogin>
+    <currentlogin>1667970293</currentlogin>
+    <mailformat>1</mailformat>
+    <maildigest>0</maildigest>
+    <maildisplay>2</maildisplay>
+    <autosubscribe>1</autosubscribe>
+    <trackforums>0</trackforums>
+    <timecreated>1667970117</timecreated>
+    <timemodified>1667970117</timemodified>
+    <trustbitmask>0</trustbitmask>
+    <custom_fields>
+    </custom_fields>
+    <tags>
+    </tags>
+    <preferences>
+      <preference id="18">
+        <name>core_message_migrate_data</name>
+        <value>1</value>
+      </preference>
+      <preference id="20">
+        <name>core_user_welcome</name>
+        <value>1667970295</value>
+      </preference>
+      <preference id="32">
+        <name>coursesectionspreferences_2</name>
+        <value>{"contentcollapsed":[2]}</value>
+      </preference>
+      <preference id="40">
+        <name>coursesectionspreferences_3</name>
+        <value>{"contentcollapsed":[]}</value>
+      </preference>
+      <preference id="22">
+        <name>drawer-open-block</name>
+        <value>0</value>
+      </preference>
+      <preference id="30">
+        <name>drawer-open-index</name>
+        <value>1</value>
+      </preference>
+      <preference id="29">
+        <name>filepicker_recentlicense</name>
+        <value>unknown</value>
+      </preference>
+      <preference id="28">
+        <name>filepicker_recentrepository</name>
+        <value>5</value>
+      </preference>
+      <preference id="33">
+        <name>ifirst</name>
+        <value></value>
+      </preference>
+      <preference id="34">
+        <name>ilast</name>
+        <value></value>
+      </preference>
+      <preference id="19">
+        <name>login_failed_count_since_success</name>
+        <value>0</value>
+      </preference>
+      <preference id="31">
+        <name>tool_usertours_tour_completion_time_2</name>
+        <value>1667977202</value>
+      </preference>
+      <preference id="23">
+        <name>tool_usertours_tour_completion_time_3</name>
+        <value>1667970426</value>
+      </preference>
+      <preference id="21">
+        <name>tool_usertours_tour_completion_time_4</name>
+        <value>1667970300</value>
+      </preference>
+      <preference id="36">
+        <name>userselector_autoselectunique</name>
+        <value>0</value>
+      </preference>
+      <preference id="35">
+        <name>userselector_preserveselected</name>
+        <value>0</value>
+      </preference>
+      <preference id="37">
+        <name>userselector_searchanywhere</name>
+        <value>0</value>
+      </preference>
+    </preferences>
+    <roles>
+      <role_overrides>
+      </role_overrides>
+      <role_assignments>
+      </role_assignments>
+    </roles>
+  </user>
+</users>

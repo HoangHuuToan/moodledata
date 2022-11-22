@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<activity id="23" moduleid="26" modulename="page" contextid="55">
+  <page id="23">
+    <name>Giới Thiệu Vòng Lặp PHP</name>
+    <intro></intro>
+    <introformat>1</introformat>
+    <content>&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;-&amp;nbsp; Trong các chương sau, bạn sẽ học cách lặp lại mã bằng cách sử dụng các vòng lặp trong PHP.&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;strong&gt;&lt;br&gt;&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr" style="text-align: left;"&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;-&amp;nbsp; Thường thì khi bạn viết mã, bạn muốn cùng một khối mã chạy đi chạy lại một số lần nhất định.&amp;nbsp;Vì vậy, thay vì thêm một số dòng mã gần như bằng nhau trong một tập lệnh, chúng ta có thể sử dụng các vòng lặp.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;-&amp;nbsp; Các vòng lặp được sử dụng để thực thi lặp lại cùng một khối mã, miễn là một điều kiện nhất định là đúng.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;-&amp;nbsp; Trong PHP, chúng ta có các loại vòng lặp sau:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;strong&gt;&lt;code&gt;while&lt;/code&gt;- lặp qua một khối mã miễn là điều kiện được chỉ định là đúng&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;code&gt;do...while&lt;/code&gt;- lặp qua một khối mã một lần và sau đó lặp lại vòng lặp miễn là điều kiện được chỉ định là đúng&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;code&gt;for&lt;/code&gt;- lặp qua một khối mã một số lần được chỉ định&lt;/strong&gt;&lt;/li&gt;&lt;li&gt;&lt;strong&gt;&lt;code&gt;foreach&lt;/code&gt;- lặp qua một khối mã cho mỗi phần tử trong một mảng&lt;/strong&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Các trang sau sẽ giải thích và đưa ra các ví dụ về từng loại vòng lặp.&lt;/strong&gt;&lt;/p&gt;&lt;br&gt;&lt;p&gt;&lt;/p&gt;</content>
+    <contentformat>1</contentformat>
+    <legacyfiles>0</legacyfiles>
+    <legacyfileslast>$@NULL@$</legacyfileslast>
+    <display>5</display>
+    <displayoptions>a:2:{s:10:"printintro";s:1:"0";s:17:"printlastmodified";s:1:"0";}</displayoptions>
+    <revision>2</revision>
+    <timemodified>1668075010</timemodified>
+  </page>
+</activity>
